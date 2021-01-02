@@ -21,11 +21,17 @@
             <div class="contenedor">
                 <div class="programa-evento">
                     <h2>Programa del evento</h2>
+                    
+                    <?php
+                    
+                    
                     <nav class="barra-programa">
                         <a href="#talleres"><i class="fas fa-code"></i>Talleres</a>
                         <a href="#conferencias"><i class="far fa-comment"></i>Conferencias</a>
                         <a href="#seminarios"><i class="fas fa-university"></i>Seminarios</a>
                     </nav>
+                        
+                        ?>
 
                     <div id="talleres" class="info-curso ocultar clearfix">
                         <div class="detalle-evento">
